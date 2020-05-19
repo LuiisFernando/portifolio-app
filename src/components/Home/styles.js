@@ -21,14 +21,18 @@ export const Container = styled.div`
 
         h1 {
             color: #FFF;
-            font-size: 45px;
+            font-size: 55px;
             align-self: center;
+            letter-spacing: 5px;
         }
 
         h2 {
             color: #FFF;
             font-family: 'Poppins Thin';
             align-self: center;
+        }
+        span {
+            color: #FFF;
         }
     }
 `;

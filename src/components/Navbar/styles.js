@@ -8,6 +8,7 @@ export const Container = styled.div`
     justify-content: center;
     background: rgba(0, 0, 0, 0.4);
     position: fixed;
+    z-index: 999;
 `;
 
 export const Menu = styled.div`
