@@ -7,7 +7,7 @@ export default function Routes() {
     return (
         <BrowserRouter>
             <Switch>
-                <Route path="/portifolio-app" exact component={Main} />
+                <Route path={process.env.PUBLIC_URL + "/"} exact component={Main} />
             </Switch>
         </BrowserRouter>
     );
