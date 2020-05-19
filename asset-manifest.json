@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portifolio-app/static/css/main.6b15d109.chunk.css",
-    "main.js": "/portifolio-app/static/js/main.36899ae1.chunk.js",
-    "main.js.map": "/portifolio-app/static/js/main.36899ae1.chunk.js.map",
+    "main.js": "/portifolio-app/static/js/main.d59d5bce.chunk.js",
+    "main.js.map": "/portifolio-app/static/js/main.d59d5bce.chunk.js.map",
     "runtime-main.js": "/portifolio-app/static/js/runtime-main.e42fb738.js",
     "runtime-main.js.map": "/portifolio-app/static/js/runtime-main.e42fb738.js.map",
     "static/js/2.848ac233.chunk.js": "/portifolio-app/static/js/2.848ac233.chunk.js",
     "static/js/2.848ac233.chunk.js.map": "/portifolio-app/static/js/2.848ac233.chunk.js.map",
     "index.html": "/portifolio-app/index.html",
-    "precache-manifest.c0d07ee83ca5cd95415f3690eedbbbab.js": "/portifolio-app/precache-manifest.c0d07ee83ca5cd95415f3690eedbbbab.js",
+    "precache-manifest.a6f3b57405da405cbdd47101266fa9fb.js": "/portifolio-app/precache-manifest.a6f3b57405da405cbdd47101266fa9fb.js",
     "service-worker.js": "/portifolio-app/service-worker.js",
     "static/css/main.6b15d109.chunk.css.map": "/portifolio-app/static/css/main.6b15d109.chunk.css.map",
     "static/js/2.848ac233.chunk.js.LICENSE.txt": "/portifolio-app/static/js/2.848ac233.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.e42fb738.js",
     "static/js/2.848ac233.chunk.js",
     "static/css/main.6b15d109.chunk.css",
-    "static/js/main.36899ae1.chunk.js"
+    "static/js/main.d59d5bce.chunk.js"
   ]
 }
