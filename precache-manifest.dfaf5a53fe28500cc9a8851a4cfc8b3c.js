@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "db9112000d60c325a3085fce0ae5b80e",
+    "revision": "9d37b50fb672bda9491947cb4cbb1b26",
     "url": "/portifolio-app/index.html"
   },
   {
-    "revision": "5cd07f5532aa411a6216",
+    "revision": "90ea36fe02bc59de96ae",
     "url": "/portifolio-app/static/css/main.6b15d109.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portifolio-app/static/js/2.848ac233.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5cd07f5532aa411a6216",
-    "url": "/portifolio-app/static/js/main.e86fe4aa.chunk.js"
+    "revision": "90ea36fe02bc59de96ae",
+    "url": "/portifolio-app/static/js/main.dff0e26f.chunk.js"
   },
   {
     "revision": "91248c7902453feb3f3f",
