@@ -1,8 +1,11 @@
-import React, { useEffect } from 'react';
+import React from 'react';
+
+import { Element } from 'react-scroll';
 
 import Navbar from '../../components/Navbar';
 
 import Home from '../../components/Home';
+import Me from '../../components/Me';
 
 export default function Main() {
 
@@ -11,12 +14,18 @@ export default function Main() {
     return (
         <>
             <Navbar />
-            <div style={{ height: '100vh' }}>
+            <Element style={{ height: '100vh' }} id="section1">
                 <Home />
-            </div>
-            <div style={{ height: '100vh' }}>
+            </Element>
+            <Element id="section2">
+                <Me />
+            </Element>
+            <Element style={{ height: '100vh' }} id="section3">
 
-            </div>
+            </Element>
+            <Element style={{ height: '100vh' }} id="section4">
+
+            </Element>
         </>
     );
 }

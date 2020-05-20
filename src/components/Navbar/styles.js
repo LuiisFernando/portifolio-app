@@ -1,7 +1,6 @@
 import styled from 'styled-components';
 
 export const Container = styled.div`
-    /* background: yellow; */
     height: 42px;
     width: 100%;
     display: flex;
@@ -16,6 +15,10 @@ export const Menu = styled.div`
     width: 50%;
     height: 100%;
 
+    @media (max-width: 1024px) {
+        width: 100%;
+    }
+
     ul {
         display: flex;
         flex: 1;
@@ -26,8 +29,26 @@ export const Menu = styled.div`
         align-items: center;
         list-style: none;
 
+        .nav-item .active {
+            color: red;
+        }
+
         li {
+            display: flex;
+            flex-direction: column;
+            position: relative;
             color: #FFF;
+            cursor: pointer;
+            transition: color 1s;
+            text-align: center;
+            width: 120px;
+            font-size: 15px;
+            font-family: 'Poppins Extra Bold';
+            
+
+            &:hover {
+                color: red;
+            }
         }
     }
 `;
