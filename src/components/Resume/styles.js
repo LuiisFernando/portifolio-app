@@ -60,6 +60,7 @@ export const Information = styled.div`
         width: 100%;
         margin-top: 30px;
         align-self: center;
+        padding-left: 0;
     }
 
     margin-bottom: 20px;
