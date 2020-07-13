@@ -5,10 +5,6 @@ import { Container, Menu } from './styles';
 
 export default function Navbar() {
 
-    function scrollToTop() {
-        animateScroll.scrollToTop();
-    }
-
     return (
         <Container>
             <Menu>
@@ -46,12 +42,12 @@ export default function Navbar() {
                             duration={500}
                             activeClass="active"
                             >
-                            Projects
+                            Resume
                         </Link>
                     </li>
                     <li className="nav-item">
                         <Link 
-                            to="section4"
+                            to="section5"
                             spy={true}
                             smooth={true} 
                             offset={-50} 

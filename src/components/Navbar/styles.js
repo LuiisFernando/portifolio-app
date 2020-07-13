@@ -43,7 +43,8 @@ export const Menu = styled.div`
             text-align: center;
             width: 120px;
             font-size: 15px;
-            font-family: 'Poppins Extra Bold';
+            font-family: 'Poppins SemiBold';
+            text-transform: uppercase;
             
 
             &:hover {

@@ -22,14 +22,14 @@ export default createGlobalStyle`
   }
 
   html, body, #root {
-    min-height: 100% !important;
-    height: 100%;
+    /* min-height: 100% !important;
+    height: 100%; */
   }
   body {
     -webkit-font-smoothing: antialiased;
-    min-height: 100% !important;
-    height: 100% !important;
-    /* background: #191414; */
+    /* min-height: 100% !important;
+    height: 100% !important; */
+    /* background: #2B2B2B; */
   }
   body, input, button {
     font-family: 'Poppins Medium', sans-serif;
